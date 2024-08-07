@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Priyanka Pardeshi</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Pardeshi </h1>
 <h3 align="center">A passionate developer & devops Enthusiast from Pune India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
