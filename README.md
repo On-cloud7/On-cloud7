@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://on-cloud7.github.io/Myportfolio/](https://on-cloud7.github.io/Myportfolio/)
 
-- 📝 I regularly write articles on [https://leetcode.com/u/On-cloud9/](https://leetcode.com/u/On-cloud9/)
+- 📝 I regularly write articles on [https://dev.to/oncloud7](https://dev.to/oncloud7)
 
 - 💬 Ask me about **.I'm currently pursuing BTech in E&TC. I'm studying in Smt.kashibai Navale College of Engineering. Additionally I write blogs on AWS and also taken a 90daysofDevops challenge.**
 
