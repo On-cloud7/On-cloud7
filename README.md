@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Taken 90daysofdevops challenge.**
 
-- 👨‍💻 All of my projects are available at [https://on-cloud7.github.io/Myportfolio/](https://on-cloud7.github.io/Myportfolio/)
+- 👨‍💻 All of my projects are available at [https://on-cloud7.github.io/Myportfolio/](https://snazzy-dodol-b2e7eb.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/oncloud7](https://dev.to/oncloud7)
 
