@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.I'm currently pursuing BTech in E&TC. I'm studying in Smt.kashibai Navale College of Engineering. Additionally I write blogs on AWS and also taken a 90daysofDevops challenge.**
 
-- 📫 How to reach me **priyanka.p62003@gmail.com**
+- 📫 How to reach me **pardeshipriyanka947@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
