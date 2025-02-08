@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=on-cloud7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
+---
+
 ### 🚀 About Me  
 - 🌱 I’m currently learning **DevOps through the #90DaysOfDevOps challenge**  
 - 📝 I write technical blogs on **[Dev.to](https://dev.to/oncloud7)**  
@@ -12,6 +14,25 @@
 - 🔥 **Passionate about Cloud, Automation, and DevOps Tools**  
 - 💬 Ask me about **AWS, Docker, Kubernetes, Jenkins, Git, and DevOps**  
 - 📫 Reach me at **pardeshipriyanka947@gmail.com**  
+
+---
+
+### 🏆 Achievements  
+- ✅ **Completed #90DaysOfDevOps Challenge**  
+- 🎖️ **AWS Cloud Practitioner Certified** *(if applicable – add certifications here!)*  
+- 🚀 **Ranked in Top DevOps Bloggers on Dev.to** *(if you have a good following, highlight it!)*  
+- 🏅 **Contributed to Open Source DevOps Projects**  
+- 🌍 **Built & Deployed Scalable Cloud Applications**  
+
+---
+
+### 🏅 Count Badges  
+Here are my current GitHub badges:  
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=on-cloud7&label=Profile%20views&color=0e75b6&style=flat) **Profile Views Badge**  
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=on-cloud7&show_icons=true&locale=en) **GitHub Stats Badge**  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=on-cloud7&show_icons=true&locale=en&layout=compact) **Most Used Languages Badge**  
+- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=on-cloud7) **GitHub Streak Badge**  
 
 ---
 
@@ -25,7 +46,7 @@
 <p align="left">
 <a href="https://dev.to/oncloud7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-pardeshi-0a918023b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/on-cloud9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/on-cloud9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
 </p>
 
 ---
@@ -40,14 +61,12 @@
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📊 **GitHub Stats**  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=on-cloud7&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=on-cloud7&show_icons=true&locale=en" alt="GitHub Stats" /></p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=on-cloud7&" alt="GitHub Streak" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=on-cloud7&show_icons=true&locale=en&layout=compact" alt="on-cloud7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=on-cloud7&show_icons=true&locale=en" alt="on-cloud7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=on-cloud7&" alt="on-cloud7" /></p>
