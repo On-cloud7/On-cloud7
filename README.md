@@ -1,38 +1,55 @@
 
-<h1 align="center">Hi 👋, I'm Priyanka Pardeshi </h1>
-<h3 align="center">A passionate developer & devops Enthusiast from Pune India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+# ☁️🚀 DevOps & Cloud Engineer 🛠️🐧
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=on-cloud7&label=Profile%20views&color=0e75b6&style=flat" alt="on-cloud7" /> </p>
+## 🌟 About Me
 
-- 🌱 I’m currently learning **Taken 90daysofdevops challenge.**
+I'm Priyanka Pardeshi, a DevOps & Cloud enthusiast actively bridging the gap between development and operations. I love building self-healing infrastructure and optimizing the CI/CD pipeline universe.
 
-- 👨‍💻 All of my projects are available at [[https://snazzy-dodol-b2e7eb.netlify.app/](https://snazzy-dodol-b2e7eb.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/oncloud7](https://dev.to/oncloud7)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/priyanka_pardeshi543/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-pardeshi07/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanka.p62003@gmail.com)
 
-- 💬 Ask me about **.I'm currently pursuing BTech in E&TC. I'm studying in Smt.kashibai Navale College of Engineering. Additionally I write blogs on AWS and also taken a 90daysofDevops challenge.**
 
-- 📫 How to reach me **pardeshipriyanka947@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmanSharma39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmanSharma39&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://github.com/on-cloud7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/on-cloud7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanka-pardeshi-0a918023b/https://www.linkedin.com/in/priyanka-pardeshi-https://www.linkedin.com/in/priyanka-pardeshi-0a918023b//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-pardeshi-0a918023b/https://www.linkedin.com/in/priyanka-pardeshi-https://www.linkedin.com/in/priyanka-pardeshi-0a918023b//" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/on-cloud9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/on-cloud9/" height="30" width="40" /></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=AmanSharma39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=on-cloud7&show_icons=true&locale=en&layout=compact" alt="on-cloud7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=on-cloud7&show_icons=true&locale=en" alt="on-cloud7" /></p>
+## 🏗️ Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=on-cloud7&" alt="on-cloud7" /></p>
+### 1. [DevSecOps Banking Application on AWS EKS](https://github.com/AmanSharma39/Bank-App.git)
+[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+
+**Secure, multi-tier banking application** on AWS EKS, delivering enterprise-grade reliability and compliance.
+
+**Key highlights:**
+- Achieved 99.9% uptime by deploying on AWS EC2 + EKS with resilient, multi-AZ clusters  
+- Integrated OWASP ZAP & Trivy into CI/CD, cutting security vulnerabilities by 75%  
+- Auto-scaling policies seamlessly handled 200% traffic spikes without degrading performance  
+- End-to-end automation using Jenkins, Terraform, Prometheus & Grafana reduced deployment time from 2 hours to 15 minutes  
+
+
+### 2. [Multi-Environment Infrastructure as Code (IaC)](https://github.com/AmanSharma39/terra-infra-tws.git)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  [![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
+
+**Scalable, environment-aware provisioning** framework for dev/stage/prod.
+
+**Key highlights:**
+- Automated provisioning for three concurrent versions, cutting spin-up time from 1 day to under 2 hours  
+- Infrastructure testing with Terratest, catching 95% of misconfigurations pre-production  
+- Modular Terraform + Ansible code promoting DRY policies and reuse  
+- GitOps workflow improved cross-team collaboration and reduced friction by 40%  
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
