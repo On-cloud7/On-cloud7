@@ -1,5 +1,4 @@
-# 👨💻 DevOps Engineer in the Making | Cloud & Automation Aficionado
-
+# 👩‍💻 Aspiring DevOps Engineer | Cloud Enthusiast ⚡ Automation Explorer
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%A6" alt="Typing SVG" />
 </div>
@@ -8,17 +7,17 @@
 
 ## 🌟 About Me
 
-I'm Priyanka Pardeshi, a DevOps enthusiast actively bridging the gap between development dreams and operational reality. My journey involves creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
+I'm Priyanka Pardeshi — a DevOps enthusiast passionate about transforming development workflows into streamlined, resilient operations. I focus on building self-healing infrastructure and refining CI/CD pipelines for speed, stability, and scalability.
 
 🚀 **Current Focus**:
-- ☁️ Mastering cloud-native technologies on AWS & GCP
+- ☁️ Mastering cloud-native technologies on AWS 
 - 🐳 Container orchestration with Kubernetes in production environments
 - ⚡ Automating everything with Terraform & Ansible
 - 📈 Implementing observability with Prometheus+Grafana stacks
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <!-- Skill Icons Section (Commented Out) 
 
@@ -138,7 +137,7 @@ I'm Priyanka Pardeshi, a DevOps enthusiast actively bridging the gap between dev
 
  
 
-[🔍 Explore All Projects →](https:/https://github.com/On-cloud7?tab=repositories)
+[🔍 Explore All Projects →](https://github.com/On-cloud7?tab=repositories)
 
 ---
 
